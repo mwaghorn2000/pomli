@@ -1,4 +1,4 @@
-#POMLI
+# POMLI
 
 A pomodoro timer for OSX which is just a simple command-line pomodoro which runs a timer daemon for a user-defined set of time.
 
